@@ -12,7 +12,7 @@ header {
     color: rgb(255, 255, 255);
 }
 
- section  {
+section {
     background-color: rgb(255, 254, 254);
     padding-bottom: 90px;
     padding-top: 80px;
@@ -20,16 +20,20 @@ header {
     justify-content: center;
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 20px;
 }
 
-h1{
-   font-size: 50px;
-   
+h1 {
+    font-size: 50px;
+
 }
 
-p{
+p {
     font-size: 20px;
-    
+
+}
+
+img {
+   height: 200px;
 }
